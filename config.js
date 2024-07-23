@@ -72,11 +72,11 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '1',
+			id: '5',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
@@ -86,15 +86,15 @@ const CONFIG = {
 	secondButtonsContainer: [
 
 		{
-			id: '2',
+			id: '1',
 			name: 'Telegram',
-			icon: 'telegram',
+			icon: 'send',
 			link: 'https://web.telegram.org',
 		},
 		{
-			id: '3',
+			id: '2',
 			name: 'Discord',
-			icon: 'discord',
+			icon: 'bot-message-square',
 			link: 'https://discord.com/app',
 		},
 	],
