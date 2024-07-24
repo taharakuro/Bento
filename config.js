@@ -65,12 +65,6 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com',
-		},
-		{
-			id: '4',
 			name: 'Reddit',
 			icon: 'bot',
 			link: 'https://reddit.com',
@@ -96,6 +90,12 @@ const CONFIG = {
 			name: 'Discord',
 			icon: 'bot-message-square',
 			link: 'https://discord.com/app',
+		},
+		{
+			id: '5',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com',
 		},
 	],
 
